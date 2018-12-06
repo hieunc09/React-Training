@@ -1,0 +1,3 @@
+.idea/
+indecision-app/node_modules/*
+indecision-app/public/bundle.js
